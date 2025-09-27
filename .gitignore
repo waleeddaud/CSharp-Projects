@@ -1,0 +1,25 @@
+# Build results
+bin/
+obj/
+
+# Visual Studio files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider / JetBrains
+.idea/
+*.iml
+
+# NuGet packages
+*.nupkg
+*.snupkg
+packages/
+
+# Logs
+*.log
+
+# Others
+.vs/
+*.dbmdl
